@@ -27,3 +27,8 @@ https://www.linkedin.com/pulse/covariance-vs-correlation-kumar-p/
 https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance  
 http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html  
 http://www.statisticshowto.com/covariance/  
+
+## Finding Correlation ##
+Correlation is a bivariate analysis that measures the strength of association between two variables and the direction of the relationship.  In terms of the strength of relationship, the value of the correlation coefficient varies between +1 and -1.  A value of ± 1 indicates a perfect degree of association between the two variables.  As the correlation coefficient value goes towards 0, the relationship between the two variables will be weaker.  The direction of the relationship is indicated by the sign of the coefficient; a + sign indicates a positive relationship and a – sign indicates a negative relationship. Usually, in statistics, we measure four types of correlations: Pearson correlation, Kendall rank correlation, Spearman correlation, and the Point-Biserial correlation.  The software below allows you to very easily conduct a correlation.  
+Source: https://www.statisticssolutions.com/correlation-pearson-kendall-spearman/  
+Code: https://chrisalbon.com/machine_learning/feature_selection/drop_highly_correlated_features/  
