@@ -28,7 +28,12 @@ https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-differ
 http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html  
 http://www.statisticshowto.com/covariance/  
 
-## Finding Correlation ##
+### Finding Correlation ###
 Correlation is a bivariate analysis that measures the strength of association between two variables and the direction of the relationship.  In terms of the strength of relationship, the value of the correlation coefficient varies between +1 and -1.  A value of ± 1 indicates a perfect degree of association between the two variables.  As the correlation coefficient value goes towards 0, the relationship between the two variables will be weaker.  The direction of the relationship is indicated by the sign of the coefficient; a + sign indicates a positive relationship and a – sign indicates a negative relationship. Usually, in statistics, we measure four types of correlations: Pearson correlation, Kendall rank correlation, Spearman correlation, and the Point-Biserial correlation.  The software below allows you to very easily conduct a correlation.  
 Source: https://www.statisticssolutions.com/correlation-pearson-kendall-spearman/  
 Code: https://chrisalbon.com/machine_learning/feature_selection/drop_highly_correlated_features/  
+
+## Signal to Noise Ratio ##
+Signal-to-noise ratio is defined as the ratio of the power of a signal (meaningful information) and the power of background noise (unwanted signal). If the variance of the signal and noise are known, and the signal and noise are both zero-mean, SNR can be represented as ratio of the variances.  
+Source: https://en.wikipedia.org/wiki/Signal-to-noise_ratio  
+
