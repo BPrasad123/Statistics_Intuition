@@ -41,13 +41,14 @@ Source: https://en.wikipedia.org/wiki/Signal-to-noise_ratio
 If X1 and X2 are two independent variables and Y is dependent variable, in statistics Interaction says how X1 is predicting Y when it is taken as input combined with X2 and vice verca. In most of the cases X1 and X2 are catergorical values and it is studied by ANOVA. However if any of X1 and X2 is numeric, then moderated multiple regression analsis is used to study Interaction.  
 
 * Assumptions of ANOVA *
-1. Normality of data
+1. Normality of data  
 i) A good way to visually determine if the data are normally distributed is by using a Q-Q plot.  If the
 point follow Q-Q line then data follow a normal distribution if there is a lot of deviation from the line then
 the data should be inspected further.  
 ii)  Shapiro-Wilk test for normality is another good way to identify (using a null hypothesis of normal data) whether or not the data is from a normal distribution.  
 
-2. Homogeneity of variance
+2. Homogeneity of variance  
 i) It can be determined using the Bartlett Test of Homogeneity of Variances  
 ii)  Fligner-Killeen Test of Homogeneity of Variances  
 Sources:https://en.wikipedia.org/wiki/Interaction_(statistics)  
+https://statistical-research.com/wp-content/uploads/2012/10/2wayanova.pdf
