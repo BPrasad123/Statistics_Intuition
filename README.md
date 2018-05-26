@@ -40,6 +40,8 @@ Source: https://en.wikipedia.org/wiki/Signal-to-noise_ratio
 ## Interaction ##
 If X1 and X2 are two independent variables and Y is dependent variable, in statistics Interaction says how X1 is predicting Y when it is taken as input combined with X2 and vice verca. In most of the cases X1 and X2 are catergorical values and it is studied by ANOVA. However if any of X1 and X2 is numeric, then moderated multiple regression analsis is used to study Interaction.  
 
+N-way Interaction test: Where we want to study N number of X variables for their interaction.  
+
 * Assumptions of ANOVA *
 1. Normality of data  
 i) A good way to visually determine if the data are normally distributed is by using a Q-Q plot.  If the
