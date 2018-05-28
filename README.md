@@ -54,3 +54,10 @@ i) It can be determined using the Bartlett Test of Homogeneity of Variances
 ii)  Fligner-Killeen Test of Homogeneity of Variances  
 Sources:https://en.wikipedia.org/wiki/Interaction_(statistics)  
 https://statistical-research.com/wp-content/uploads/2012/10/2wayanova.pdf
+
+## Laplace ##
+https://en.wikipedia.org/wiki/Laplace_distribution  
+https://stats.stackexchange.com/questions/224237/what-is-out-of-fold-average  
+https://en.wikipedia.org/wiki/Differential_privacy  
+https://en.wikipedia.org/wiki/Gumbel_distribution  
+https://en.wikipedia.org/wiki/Location_parameter  
