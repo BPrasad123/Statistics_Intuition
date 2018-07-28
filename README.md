@@ -69,3 +69,9 @@ https://en.wikipedia.org/wiki/Differential_privacy
 https://en.wikipedia.org/wiki/Gumbel_distribution  
 https://en.wikipedia.org/wiki/Location_parameter  
 
+## Bias Vs Variance Trade off ##
+Bias explains the distance of the average of the measured values from the true value.  
+Variance explains the spread of the measured values around the mean value.  
+
+More details: http://scott.fortmann-roe.com/docs/BiasVariance.html  
+
