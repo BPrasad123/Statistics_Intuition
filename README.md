@@ -75,3 +75,7 @@ Variance explains the spread of the measured values around the mean value.
 
 More details: http://scott.fortmann-roe.com/docs/BiasVariance.html  
 
+## Various Cost Functions ##
+https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications  
+
+
